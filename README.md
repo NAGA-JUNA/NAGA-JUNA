@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFZBENcpAfBww/profile-displaybackgroundimage-shrink_350_1400/0/1677216376292?e=1682553600&v=beta&t=801jX0DR-JmlQMNuhZYabR5sS2pBijOf1CmPKRqal6M)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQFZBENcpAfBww/profile-displaybackgroundimage-shrink_350_1400/0/1677216376292?e=1682553600&v=beta&t=801jX0DR-JmlQMNuhZYabR5sS2pBijOf1CmPKRqal6M)
 <h1 align="center">Hi 👋, I'm NAGARJUNA Y</h1>
 <h3 align="center">I'm a passionate Front-End Developer || PLSQL Developer || SQL || IT Logistics || WMS Systems</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
