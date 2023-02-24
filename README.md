@@ -31,8 +31,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naga-juna" alt="naga-juna" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://awayindia.com/images/shadow-top.png" alt="shadow-top" width="100%" height="100%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naga-juna&show_icons=true&locale=en&layout=compact" alt="naga-juna" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naga-juna&show_icons=true&locale=en" alt="naga-juna" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naga-juna&" alt="naga-juna" /></p>
+<img src="https://awayindia.com/images/shadow-top.png" alt="shadow-top" width="100%" height="100%">
+
